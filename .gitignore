@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# FAISS / data
+index/*.index
+index/*.pkl
+data/*.pdf
+
+# OS
+.DS_Store
