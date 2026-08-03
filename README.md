@@ -25,7 +25,7 @@ This system solves this problem by:
 - 📄 Page-aware PDF ingestion  
 - 🧩 Semantic chunking based on document structure  
 - 🔍 FAISS-based vector similarity search  
-- 🤖 Local LLM inference (Phi-2 or similar)  
+- 🤖 Local LLM inference (Phi-2)  
 - 💬 CLI-based chat interface  
 - 🌐 FastAPI REST API for integration  
 
